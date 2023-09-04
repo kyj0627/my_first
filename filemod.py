@@ -11,5 +11,3 @@ c=a*b
 print("a*b=",c)
 
 print("c/5=",c/5)
-
-iiii
